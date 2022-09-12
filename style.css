@@ -25,6 +25,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     text-transform: uppercase;
 }
+.yt{
+    font-size: 40px;
+    color: magenta;
+    letter-spacing: 2px;
+}
 .text::before{
     content: "ar pro code yt";
     position: absolute;
@@ -55,8 +60,3 @@ body {
     }
 }
 
-.yt{
-    font-size: 40px;
-    color: magenta;
-    letter-spacing: 2px;
-}
